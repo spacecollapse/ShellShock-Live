@@ -6,7 +6,7 @@
 
 
 
-Скачать можно здесь - https://github.com/defoxxx/ShellShock-Live/releases/spacecollapse/aimbot/Shell_Shock_Live_aimbot.exe
+Скачать можно здесь - https://github.com/spacecollapse/ShellShock-Live/releases/download/aimbot/Shell_Shock_Live_aimbot.exe
 
 Вступайте в наш клан в игре 
 Тег - EEXX
